@@ -1,0 +1,9 @@
+
+ejemplos-java/.project
+*.prefs
+ejemplos-java/java8/.classpath
+ejemplos-java/java8/.project
+*.class
+*.MF
+target
+

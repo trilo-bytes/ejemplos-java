@@ -1,4 +1,4 @@
-package org.java8.lambda.interfazfuncional;
+package org.java8.lambda.interfacesfuncionales.comunes;
 
 import java.util.Arrays;
 import java.util.List;

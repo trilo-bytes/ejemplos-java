@@ -2,7 +2,7 @@ package org.java8.lambda.interfacesfuncionales.comunes;
 
 import java.util.function.Supplier;
 
-public class EjemploSupplier {
+public class Ejemplo4Supplier {
 
 	public static void main(String[] args) {
 		Supplier<Objeto> suplier = () -> new Objeto("objeto1");

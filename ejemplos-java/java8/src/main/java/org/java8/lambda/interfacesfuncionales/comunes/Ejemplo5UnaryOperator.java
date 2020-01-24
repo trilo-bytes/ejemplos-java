@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.function.UnaryOperator;
 
-public class EjemploUnaryOperator {
+public class Ejemplo5UnaryOperator {
 
 	public static void main(String[] args) {
 		List<String> lista = Arrays.asList("casa", "abaco", "almohada", "peluche", "");

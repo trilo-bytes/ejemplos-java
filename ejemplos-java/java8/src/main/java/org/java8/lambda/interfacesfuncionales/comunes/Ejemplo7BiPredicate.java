@@ -2,7 +2,7 @@ package org.java8.lambda.interfacesfuncionales.comunes;
 
 import java.util.function.BiPredicate;
 
-public class EjemploBiPredicate {
+public class Ejemplo7BiPredicate {
 
 	public static void main(String[] args) {
 		BiPredicate<Integer, Integer> esMayor = (Integer a, Integer b) -> a > b;

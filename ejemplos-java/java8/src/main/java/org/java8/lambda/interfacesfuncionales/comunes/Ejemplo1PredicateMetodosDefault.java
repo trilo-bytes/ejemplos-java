@@ -2,7 +2,7 @@ package org.java8.lambda.interfacesfuncionales.comunes;
 
 import java.util.function.Predicate;
 
-public class EjemploPredicateMetodosDefault {
+public class Ejemplo1PredicateMetodosDefault {
 
 	public static void main(String[] args) {
 		Predicate<Integer> esPar = (Integer i) -> i % 2 == 0;

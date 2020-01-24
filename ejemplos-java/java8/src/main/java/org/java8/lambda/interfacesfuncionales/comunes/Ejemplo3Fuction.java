@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.function.Function;
 import java.util.regex.Pattern;
 
-public class EjemploFuction {
+public class Ejemplo3Fuction {
 	public static void main(String[] args) {
 		List<String> listaString = Arrays.asList("casa", "10", "10casas");
 
@@ -17,7 +17,7 @@ public class EjemploFuction {
 	}
 
 	public static <T, R> List<R> transformarANumeros(List<T> list, Function<T, R> c) {
-		List<R> listaTransformada = new ArrayList<R>();
+		List<R> listaTransformada = new ArrayList<>();
 		for (T s : list) {
 			if (isNumeric(s)) {
 				listaTransformada.add(c.apply(s));

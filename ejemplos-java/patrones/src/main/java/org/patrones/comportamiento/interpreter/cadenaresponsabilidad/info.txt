@@ -1,0 +1,1 @@
+mismo ejercicio pero con el patron cadena de responsabilidad

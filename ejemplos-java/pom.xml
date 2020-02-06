@@ -18,6 +18,7 @@
 	<modules>
 		<module>java8</module>
 		<module>patrones</module>
+		<module>tutorial-spring-amqp</module>
 	</modules>
 
 </project>

@@ -1,7 +1,9 @@
 package org.patrones.comportamiento.mediador;
 
 public class EjemploMediador {
-
+	/**
+	 * @See https://dzone.com/refcardz/design-patterns?chapter=6
+	 */
 	public static void main(String[] args) {
 		IMediador mediador = new Mediador();
 

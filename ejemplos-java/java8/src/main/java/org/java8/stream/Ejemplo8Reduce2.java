@@ -7,7 +7,7 @@ import java.util.Optional;
 public class Ejemplo8Reduce2 {
 	public static void main(String[] args) {
 		List<Integer> lista = Arrays.asList(1, 2, 3, 4);
-		Optional<Integer> sumaPares = lista.stream().reduce(Integer::sum);
-		System.out.println(sumaPares.get());
+		Optional<Integer> sumaTodos = lista.stream().reduce(Integer::sum);
+		System.out.println(sumaTodos.get());
 	}
 }

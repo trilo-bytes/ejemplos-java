@@ -2,6 +2,11 @@ package org.patrones.comportamiento.observer;
 
 public class PatronObserverEjemplo {
 
+	/**
+	 * https://dzone.com/refcardz/design-patterns?chapter=8
+	 * 
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		Observado objetoObservado = new Observado();
 
